@@ -5,3 +5,5 @@ StudentAssets
 *.db
 *.rdb
 stripe.exe
+publish
+wwwroot
